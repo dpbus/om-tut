@@ -25,12 +25,12 @@
 
               :compiler {:main om-tut.core
                          :asset-path "js/compiled/out"
-                         :output-to "resources/public/js/compiled/om-tut.js"
+                         :output-to "resources/public/js/compiled/om_tut.js"
                          :output-dir "resources/public/js/compiled/out"
                          :source-map-timestamp true }}
              {:id "min"
               :source-paths ["src"]
-              :compiler {:output-to "resources/public/js/compiled/om-tut.js"
+              :compiler {:output-to "resources/public/js/compiled/om_tut.js"
                          :main om-tut.core
                          :optimizations :advanced
                          :pretty-print false}}]}
