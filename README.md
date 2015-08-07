@@ -1,6 +1,6 @@
 # om-tut
 
-Working through sample tutorial here: https://github.com/omcljs/om/wiki/Basic-Tutorial
+Working through [Om](https://github.com/omcljs/om) tutorial located [here](https://github.com/omcljs/om/wiki/Basic-Tutorial)
 
 ## Setup
 
